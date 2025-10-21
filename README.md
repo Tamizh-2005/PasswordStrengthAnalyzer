@@ -302,21 +302,6 @@ java PasswordStrengthAnalyzer
 - Include all character types
 - Avoid personal information
 
-### Related Projects
-- [zxcvbn](https://github.com/dropbox/zxcvbn) - Dropbox's password strength estimator
-- [KeePass](https://keepass.info/) - Free password manager
-- [Have I Been Pwned](https://haveibeenpwned.com/) - Check if password was breached
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
 ### Ideas for Contributions
 - Add password generation feature
 - Integrate Have I Been Pwned API
@@ -333,9 +318,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@Tamizh-2005](https://github.com/Tamizh-2005)
+- LinkedIn: [Tamilkumar P](https://www.linkedin.com/in/tamilkumar-p)
+- Email: tamilkumarp2005@gmail.com
 
 ## ⭐ Show Your Support
 
@@ -351,11 +336,6 @@ Give a ⭐️ if this project helped you!
 - [ ] Plugin system for custom validators
 - [ ] REST API version
 
-## 🙏 Acknowledgments
-
-- Inspired by [zxcvbn](https://github.com/dropbox/zxcvbn)
-- Shannon Entropy formula from Information Theory
-- Common password lists from security research
 
 ## 📊 Statistics
 
