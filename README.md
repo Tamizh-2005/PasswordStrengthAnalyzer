@@ -317,7 +317,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Tamilkumar**
 - GitHub: [@Tamizh-2005](https://github.com/Tamizh-2005)
 - LinkedIn: [Tamilkumar P](https://www.linkedin.com/in/tamilkumar-p)
 - Email: tamilkumarp2005@gmail.com
